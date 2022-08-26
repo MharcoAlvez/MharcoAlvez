@@ -1,6 +1,5 @@
 ## Olá! Eu sou Marco 
 
-- 🔭 Hoje trabalho com front-end
 - 🌱 Estudando Flutter!
 
 
