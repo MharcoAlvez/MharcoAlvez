@@ -1,6 +1,6 @@
 ## Olá! Eu sou Marco 
 
-- 🌱 Estudando Flutter!
+- 
 
 
 <div align="center">
