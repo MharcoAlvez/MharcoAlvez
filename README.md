@@ -1,7 +1,5 @@
 ## Olá! Eu sou Marco 
 
-- 
-
 
 <div align="center">
   <a href="https://github.com/MharcoAlvez">
@@ -17,8 +15,6 @@
                                                                                                                                                       
   
   
-</div>
 
- ![Snake animation](https://github.com/MharcoAlvez/MharcoAlvez/blob/output/github-contribution-grid-snake.svg)
 
 
